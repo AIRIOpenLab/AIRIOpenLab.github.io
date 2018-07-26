@@ -11,4 +11,14 @@ Il target iniziale sarà lo studente prossimo all'inizio del progetto di laurea.
 
 I volontari dovranno preparare (individualmente o in gruppo) le analisi e le schede tecniche; l'iniziativa è aperta a tutti i campi di ricerca, materie umanistiche e scientifiche.
 
-Se siete interessati, scrivete a [openlab@airicerca.org](mailto:openlab@airicerca.org)
+## Come posso partecipare?
+
+Se siete interessati, innanzitutto scrivete a [openlab@airicerca.org](mailto:openlab@airicerca.org). Nella vostra prima corrispondenza per favore rispondete a queste domande:
+
+1. Hai esperienza con l'uso di Linux?
+1. Hai mai usato virtual machines e software containers (ad esempio [Docker](https://www.docker.com))?
+1. Hai mai usato [Git](https://git-scm.com/) o altri sistemi per il controllo delle versioni (svn, cvs, ecc.)?
+1. Che tipo di analisi vorresti implementare? Campo scientifico, livello di difficoltà, presenza di dati pubblici, ecc.
+1. Di che software hai bisogno per l'analisi? 
+
+Per partecipare al progetto, avrai inoltre bisogno di un creare &mdash; gratuitamente &mdash; un utente su [GitHub](https://github.com).
