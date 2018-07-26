@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Benvenuti ad AIRI Open Lab
 
-You can use the [editor on GitHub](https://github.com/AIRIOpenLab/AIRIOpenLab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ AIRIOpenLab è un'iniziativa per preparare un'antologia di analisi sperimentali disponibili gratuitamente online, eseguite con software open source e utilizzanti dati pubblici.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lo scopo dell'iniziativa è puramente didattico: le analisi sperimentali dovranno essere degli studi "classici" ben documentati dalla letteratura scientifica.
 
-### Markdown
+Per ogni analisi sarà compilata una scheda informativa sulla teoria scientifica sottostante all'analisi, sul tipo di software e sugli strumenti matematici e statistici utilizzati.
+Tutta la documentazione sarà in italiano.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Il target iniziale sarà lo studente prossimo all'inizio del progetto di laurea. Raramente nell'accademia italiana l'apprendimento degli strumenti tecnici di ricerca è supervisionato adeguatamente; questa iniziativa vuole essere un aiuto allo studente.
 
-```markdown
-Syntax highlighted code block
+I volontari dovranno preparare (individualmente o in gruppo) le analisi e le schede tecniche; l'iniziativa è aperta a tutti i campi di ricerca, materie umanistiche e scientifiche.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AIRIOpenLab/AIRIOpenLab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Se siete interessati, scrivete a [mailto:openlab@airicerca.org](openlab@airicerca.org)
