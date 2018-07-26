@@ -17,6 +17,7 @@ Se siete interessati, innanzitutto scrivete a [openlab@airicerca.org](mailto:ope
 
 1. Hai esperienza con l'uso di Linux?
 1. Hai mai usato virtual machines e software containers (ad esempio [Docker](https://www.docker.com))?
+1. Hai mai usato [ambienti integrati di sviluppo](https://it.wikipedia.org/wiki/Integrated_development_environment)? Se sì, quali?
 1. Hai mai usato [Git](https://git-scm.com/) o altri sistemi per il controllo delle versioni (svn, cvs, ecc.)?
 1. Che tipo di analisi vorresti implementare? Campo scientifico, livello di difficoltà, presenza di dati pubblici, ecc.
 1. Di che software hai bisogno per l'analisi? 
