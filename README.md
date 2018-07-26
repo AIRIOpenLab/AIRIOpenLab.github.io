@@ -11,4 +11,4 @@ Il target iniziale sarà lo studente prossimo all'inizio del progetto di laurea.
 
 I volontari dovranno preparare (individualmente o in gruppo) le analisi e le schede tecniche; l'iniziativa è aperta a tutti i campi di ricerca, materie umanistiche e scientifiche.
 
-Se siete interessati, scrivete a [mailto:openlab@airicerca.org](openlab@airicerca.org)
+Se siete interessati, scrivete a [openlab@airicerca.org](mailto:openlab@airicerca.org)
