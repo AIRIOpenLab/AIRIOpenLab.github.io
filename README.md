@@ -1,6 +1,6 @@
-## Benvenuti ad AIRI Open Lab
+## Benvenuti ad AIRI OpenLab
 
- AIRIOpenLab è un'iniziativa per preparare un'antologia di analisi sperimentali disponibili gratuitamente online, eseguite con software open source e utilizzanti dati pubblici.
+ AIRI OpenLab è un'iniziativa per preparare un'antologia di analisi sperimentali disponibili gratuitamente online, eseguite con software open source e utilizzanti dati pubblici.
 
 Lo scopo dell'iniziativa è puramente didattico: le analisi sperimentali dovranno essere degli studi "classici" ben documentati dalla letteratura scientifica.
 
