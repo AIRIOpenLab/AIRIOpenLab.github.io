@@ -9,7 +9,7 @@ I file sorgente, forniti come file R Markdown (.rmd) e PDF, nonché i dati di es
 Qui sotto trovate i PDF delle lezioni:
 
 - Lezione 1: [Tracciare e manipolare i dati](https://github.com/AIRIOpenLab/IBMS3-R-Workshops/blob/master/Lezione%201/1_-_Tracciare_e_manipolare_dati.pdf)
-- Lezione 2: [ANOVA e regressione con interazioni]((https://github.com/AIRIOpenLab/IBMS3-R-Workshops/blob/master/Lezione%202/2_-_ANOVA_con_interazioni.pdf)
+- Lezione 2: [ANOVA e regressione con interazioni](https://github.com/AIRIOpenLab/IBMS3-R-Workshops/blob/master/Lezione%202/2_-_ANOVA_con_interazioni.pdf)
 - Lezione 3: [Modelli a effetti misti](https://github.com/AIRIOpenLab/IBMS3-R-Workshops/blob/master/Lezione%203/3_-_Modelli_effetti_misti.pdf)
 - Lezione 4: [Analisi dei dati categorici](https://github.com/AIRIOpenLab/IBMS3-R-Workshops/blob/master/Lezione%204/4_-_Analisi_dati_categorici.pdf)
 
